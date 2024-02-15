@@ -1,0 +1,10 @@
+# Exercício 12 - Crie uma lista de 5 frutas e verifique se a fruta 'Morango' faz parte da lista
+
+lista_frutas = ['banana', 'uva', 'kiwi', 'manga', 'limão',]
+if lista_frutas.count('morango') > 0:
+    print('Sua lista contém morango')
+else:
+    print('Sua lista não contém morango')
+
+lista_frutas.append('morango')
+print(lista_frutas)

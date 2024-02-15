@@ -1,0 +1,13 @@
+# Exercício 3 - Crie uma tupla de 4 elementos, multiplique cada elemento da tupla por 2 e guarde os resultados em uma 
+# lista
+
+tupla = (2, 4, 6, 8)
+lista_tupla_duplicada = []
+
+for i in tupla:
+    lista_tupla_duplicada.append(i * 2)
+
+print(lista_tupla_duplicada)
+
+
+    

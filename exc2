@@ -1,0 +1,2 @@
+lista = ['rafael', 19, 'feijão', 4, 'lixo' ]
+print(lista)
