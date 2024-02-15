@@ -1,0 +1,4 @@
+nome = 'Roger'
+sobrenome = 'Gonçalves'
+nome_completo = nome + ' ' + sobrenome
+print(nome_completo)
